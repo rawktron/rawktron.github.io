@@ -1,18 +1,18 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno/'
+title: rawktron
+description: 'rawktron.com'
+url: 'http://rawktron.com'
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Pete Garcin'
+#  email: 
+  twitter_username: rawktron
+#  facebook_username: joshgerdes
+  github_username:  rawktron
+#  linkedin_username:  joshgerdes
 
 defaults:
   -
@@ -36,4 +36,4 @@ kramdown:
   hard_wrap: false
 
 gems: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
