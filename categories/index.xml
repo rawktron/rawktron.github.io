@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on rawktron</title>
-    <link>https://rawktron.com/categories/</link>
+    <link>https://rawktron.github.io/categories/</link>
     <description>Recent content in Categories on rawktron</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Pete Garcin</copyright>
     
-	<atom:link href="https://rawktron.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rawktron.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
