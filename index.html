@@ -1,24 +1,201 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta name="generator" content="Hugo 0.21-DEV" /><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>rawktron</title>
+<meta name="description" content="rawktron.com">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="all,follow">
+<meta name="googlebot" content="index,follow,snippet,archive">
+<link rel="stylesheet" href="https://rawktron.com/css/bootstrap.min.css">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic">
+<link rel="stylesheet" href="https://rawktron.com/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://rawktron.com/css/owl.carousel.css">
+<link rel="stylesheet" href="https://rawktron.com/css/owl.theme.css">
 
-<div class="main-post-list">
 
-  <ol class="post-list">
-    {% for post in paginator.posts %}
-      <li>
-        <h2 class="post-list__post-title post-title"><a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        <p class="excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}&hellip;</p>
-        <div class="post-list__meta"><time datetime="{{ post.date | date: "%-d %b %Y" }}" class="post-list__meta--date date">{{ post.date | date: "%-d %b %Y" }}</time> &#8226; <span class="post-meta__tags">on {% for tag in post.tags %}<a href="{{ site.baseurl }}tags/#{{ tag }}">{{ tag }}</a> {% endfor %}</span></div>
-        <hr class="post-list__divider">
-      </li>
-    {% endfor %}
-  </ol>
+  <link href="https://rawktron.com/css/style.sea.css" rel="stylesheet" id="theme-stylesheet">
 
-  <hr class="post-list__divider ">
 
-  {% if paginator.previous_page or paginator.next_page %}
-      {% include pagination.html %}
-  {% endif %}
+<link href="https://rawktron.com/css/custom.css" rel="stylesheet">
+<link rel="shortcut icon" href="https://rawktron.com/img/favicon.png">
 
+  <link href="https://rawktron.com/index.xml" rel="alternate" type="application/rss+xml" title="rawktron" />
+  <link href="https://rawktron.com/index.xml" rel="feed" type="application/rss+xml" title="rawktron" />
+
+
+</head>
+<body>
+  <div id="all">
+      <div class="container-fluid">
+          <div class="row row-offcanvas row-offcanvas-left">
+              <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
+  <div class="sidebar-content">
+    <h1 class="sidebar-heading"><a href="/">rawktron</a></h1>
+    
+      <p class="sidebar-p">Dev Evangelist @ActiveState. Long time games industry vet, audio director, musician, writer.</p>
+    
+      <p class="sidebar-p">You can find my projects and writing here.</p>
+    
+    <ul class="sidebar-menu">
+      
+      
+        <li><a href="https://rawktron.com/">Home</a></li>
+      
+        <li><a href="https://rawktron.com/about/">About</a></li>
+      
+    </ul>
+    <p class="social">
+  
+  
+  
+  <a href="https://twitter.com/rawktron" data-animate-hover="pulse" class="external twitter">
+    <i class="fa fa-twitter"></i>
+  </a>
+  
+  
+  <a href="https://www.instagram.com/rawktron/" title="" class="external instagram">
+    <i class="fa fa-instagram"></i>
+  </a>
+  
+  
+  
+  <a href="https://www.linkedin.com/in/petegarcin/" data-animate-hover="pulse">
+    <i class="fa fa-linkedin"></i>
+  </a>
+  
+  
+  <a href="http://stackoverflow.com/users/7753940/rawktron" data-animate-hover="pulse">
+    <i class="fa fa-stack-overflow"></i>
+  </a>
+  
+  
+  <a href="https://github.com/rawktron" data-animate-hover="pulse">
+    <i class="fa fa-github"></i>
+  </a>
+  
+</p>
+
+
+    <div class="copyright">
+      <p class="credit">
+        
+          &copy;2017 Pete Garcin
+        
+        | Template by <a href="https://bootstrapious.com/free-templates" class="external">Bootstrapious.com</a>
+
+&amp; ported to Hugo by <a href="https://github.com/kishaningithub">Kishan B</a>
+
+      </p>
+    </div>
+  </div>
 </div>
+
+              
+  <div class="col-xs-12 col-sm-8 col-md-9 content-column">
+    <div class="small-navbar visible-xs">
+  <button type="button" data-toggle="offcanvas" class="btn btn-ghost pull-left"> <i class="fa fa-align-left"> </i>Menu</button>
+  <h1 class="small-navbar-heading"><a href="/">rawktron</a></h1>
+</div>
+
+    <div class="grid">
+        <div class="row">
+          
+              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
+                  <div class="box-masonry">
+                      
+                      
+                      <div class="box-masonry-text">
+                      
+                          <h4><a href="https://rawktron.com/portfolio/godbsurvey/">Surveying the Go Database Landscape</a></h4>
+                          <div class="box-masonry-desription">
+                              <p><p>A survey of the Go database landscape.<br />
+</p></p>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          
+              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
+                  <div class="box-masonry">
+                      
+                        
+                        <a href="https://rawktron.com/portfolio/infiniteair/" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
+                        
+                            <img src="/img/infiniteair.jpg" alt="" class="img-responsive">
+                        </a>
+                      
+                      
+                      <div class="box-masonry-text">
+                      
+                          <h4><a href="https://rawktron.com/portfolio/infiniteair/">Mark McMorris Infinite Air</a></h4>
+                          <div class="box-masonry-desription">
+                              <p><p>Snowboard Simulation title on PS4, XB1, PC released in 2016.<br />
+</p></p>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          
+              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
+                  <div class="box-masonry">
+                      
+                        
+                        <a href="https://rawktron.com/portfolio/gomanssky/" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
+                        
+                            <img src="/img/ScreenGrab.png" alt="" class="img-responsive">
+                        </a>
+                      
+                      
+                      <div class="box-masonry-text">
+                      
+                          <h4><a href="https://rawktron.com/portfolio/gomanssky/">Go Man&#39;s Sky</a></h4>
+                          <div class="box-masonry-desription">
+                              <p><p>ANSi space exploration game created for Ludum Dare 38 over a weekend.<br />
+</p></p>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          
+              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
+                  <div class="box-masonry">
+                      
+                        
+                        <a href="https://rawktron.com/portfolio/ansigo/" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
+                        
+                            <img src="/img/rad-love.ans.png" alt="" class="img-responsive">
+                        </a>
+                      
+                      
+                      <div class="box-masonry-text">
+                      
+                          <h4><a href="https://rawktron.com/portfolio/ansigo/">ansigo</a></h4>
+                          <div class="box-masonry-desription">
+                              <p>Forthcoming ansi art library in Go. Stay tuned!</p>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          
+        </div>
+    </div>
+</div>
+
+
+          </div>
+      </div>
+  </div>
+  <script src="https://rawktron.com/js/jquery.min.js"></script>
+<script src="https://rawktron.com/js/bootstrap.min.js"></script>
+<script src="https://rawktron.com/js/jquery.cookie.js"> </script>
+<script src="https://rawktron.com/js/ekko-lightbox.js"></script>
+<script src="https://rawktron.com/js/jquery.scrollTo.min.js"></script>
+<script src="https://rawktron.com/js/masonry.pkgd.min.js"></script>
+<script src="https://rawktron.com/js/imagesloaded.pkgd.min.js"></script>
+<script src="https://rawktron.com/js/owl.carousel.min.js"></script>
+<script src="https://rawktron.com/js/front.js"></script>
+
+</body>
+</html>
