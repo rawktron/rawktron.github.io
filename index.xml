@@ -7,10 +7,50 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Pete Garcin</copyright>
-    <lastBuildDate>Sat, 29 Apr 2017 17:02:57 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 25 May 2017 17:02:57 -0300</lastBuildDate>
     
 	<atom:link href="https://rawktron.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Building Game AI using Machine Learning: Working with TensorFlow, Keras and Intel MKL in Python</title>
+      <link>https://rawktron.github.io/portfolio/neuroblastpy/</link>
+      <pubDate>Thu, 25 May 2017 17:02:57 -0300</pubDate>
+      
+      <guid>https://rawktron.github.io/portfolio/neuroblastpy/</guid>
+      <description>&lt;p&gt;A look into how I built NeuroBlast in Python taking advantage of Intel MKL optimizations and many of the open-source data-science packages available.&lt;br /&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Building an ML-Powered game AI using TensorFlow in Go</title>
+      <link>https://rawktron.github.io/portfolio/neuroblastgo/</link>
+      <pubDate>Sat, 29 Apr 2017 17:02:57 -0300</pubDate>
+      
+      <guid>https://rawktron.github.io/portfolio/neuroblastgo/</guid>
+      <description>&lt;p&gt;Guest Blog on &lt;a href=&#34;http://gopherdata.io&#34;&gt;GopherData.io&lt;/a&gt; covering building NeuroBlast for Go.&lt;br /&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>GopherCon 17 Lightning Talk: Building ML-Powered Game AI using TensorFlow in Go</title>
+      <link>https://rawktron.github.io/portfolio/gophercon/</link>
+      <pubDate>Sat, 29 Apr 2017 17:02:57 -0300</pubDate>
+      
+      <guid>https://rawktron.github.io/portfolio/gophercon/</guid>
+      <description>&lt;p&gt;A 10-minute talk I gave at GopherCon 2017 on building NeuroBlast in Go.&lt;br /&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>NeuroBlast: Classic space shooter powered by ML</title>
+      <link>https://rawktron.github.io/portfolio/neuroblast/</link>
+      <pubDate>Sat, 29 Apr 2017 17:02:57 -0300</pubDate>
+      
+      <guid>https://rawktron.github.io/portfolio/neuroblast/</guid>
+      <description>&lt;p&gt;NeuroBlast is a classic arcade space shooter powered by ML.&lt;br /&gt;
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Surveying the Go Database Landscape</title>
@@ -19,6 +59,16 @@
       
       <guid>https://rawktron.github.io/portfolio/godbsurvey/</guid>
       <description>&lt;p&gt;A survey of the Go database landscape.&lt;br /&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Using Pre-Trained Models with TensorFlow in Go</title>
+      <link>https://rawktron.github.io/portfolio/gococo/</link>
+      <pubDate>Sat, 29 Apr 2017 17:02:57 -0300</pubDate>
+      
+      <guid>https://rawktron.github.io/portfolio/gococo/</guid>
+      <description>&lt;p&gt;Using pre-trained COCO object identification in Go.
 &lt;/p&gt;</description>
     </item>
     
@@ -43,12 +93,12 @@
     </item>
     
     <item>
-      <title>ansigo</title>
+      <title>go-ansi</title>
       <link>https://rawktron.github.io/portfolio/ansigo/</link>
       <pubDate>Sat, 29 Apr 2017 17:01:37 -0300</pubDate>
       
       <guid>https://rawktron.github.io/portfolio/ansigo/</guid>
-      <description>Forthcoming ansi art library in Go. Stay tuned!</description>
+      <description>go-ansi is a CLI and library that takes ANSi BBS art files and converts them to PNG/bitmaps. I used this to drive the art in Go Man&amp;rsquo;s Sky.</description>
     </item>
     
   </channel>
