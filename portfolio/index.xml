@@ -1,102 +1,117 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on rawktron</title>
-    <link>https://rawktron.github.io/portfolio/</link>
+    <link>https://rawktron.com/portfolio/</link>
     <description>Recent content in Portfolios on rawktron</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2017 17:02:57 -0300</lastBuildDate>
-    
-	<atom:link href="https://rawktron.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 03 Jan 2022 17:01:37 -0300</lastBuildDate><atom:link href="https://rawktron.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Building Game AI using Machine Learning: Working with TensorFlow, Keras and Intel MKL in Python</title>
-      <link>https://rawktron.github.io/portfolio/neuroblastpy/</link>
-      <pubDate>Thu, 25 May 2017 17:02:57 -0300</pubDate>
+      <title>Chimera&#39;s Prism</title>
+      <link>https://rawktron.com/portfolio/chimerasprism/</link>
+      <pubDate>Mon, 03 Jan 2022 17:01:37 -0300</pubDate>
       
-      <guid>https://rawktron.github.io/portfolio/neuroblastpy/</guid>
-      <description>&lt;p&gt;A look into how I built NeuroBlast in Python taking advantage of Intel MKL optimizations and many of the open-source data-science packages available.&lt;br /&gt;
-&lt;/p&gt;</description>
+      <guid>https://rawktron.com/portfolio/chimerasprism/</guid>
+      <description>Mercury&amp;rsquo;s Shadow is Book Two of the Kardashev Cycle released in 2021. Visit pjgarcin.com for more info.</description>
     </item>
     
     <item>
-      <title>Building an ML-Powered game AI using TensorFlow in Go</title>
-      <link>https://rawktron.github.io/portfolio/neuroblastgo/</link>
-      <pubDate>Sat, 29 Apr 2017 17:02:57 -0300</pubDate>
+      <title>Mercury&#39;s Shadow</title>
+      <link>https://rawktron.com/portfolio/mercuryshadow/</link>
+      <pubDate>Mon, 03 Jan 2022 17:01:37 -0300</pubDate>
       
-      <guid>https://rawktron.github.io/portfolio/neuroblastgo/</guid>
-      <description>&lt;p&gt;Guest Blog on &lt;a href=&#34;http://gopherdata.io&#34;&gt;GopherData.io&lt;/a&gt; covering building NeuroBlast for Go.&lt;br /&gt;
-&lt;/p&gt;</description>
+      <guid>https://rawktron.com/portfolio/mercuryshadow/</guid>
+      <description>Mercury&amp;rsquo;s Shadow is Book One of the Kardashev Cycle, my sci-fi series released in 2020. Visit pjgarcin.com for more info.</description>
     </item>
     
     <item>
-      <title>GopherCon 17 Lightning Talk: Building ML-Powered Game AI using TensorFlow in Go</title>
-      <link>https://rawktron.github.io/portfolio/gophercon/</link>
-      <pubDate>Sat, 29 Apr 2017 17:02:57 -0300</pubDate>
+      <title>Sol&#39;s Dawn</title>
+      <link>https://rawktron.com/portfolio/solsdawn/</link>
+      <pubDate>Sun, 02 Jan 2022 17:01:37 -0300</pubDate>
       
-      <guid>https://rawktron.github.io/portfolio/gophercon/</guid>
-      <description>&lt;p&gt;A 10-minute talk I gave at GopherCon 2017 on building NeuroBlast in Go.&lt;br /&gt;
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>NeuroBlast: Classic space shooter powered by ML</title>
-      <link>https://rawktron.github.io/portfolio/neuroblast/</link>
-      <pubDate>Sat, 29 Apr 2017 17:02:57 -0300</pubDate>
-      
-      <guid>https://rawktron.github.io/portfolio/neuroblast/</guid>
-      <description>&lt;p&gt;NeuroBlast is a classic arcade space shooter powered by ML.&lt;br /&gt;
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Surveying the Go Database Landscape</title>
-      <link>https://rawktron.github.io/portfolio/godbsurvey/</link>
-      <pubDate>Sat, 29 Apr 2017 17:02:57 -0300</pubDate>
-      
-      <guid>https://rawktron.github.io/portfolio/godbsurvey/</guid>
-      <description>&lt;p&gt;A survey of the Go database landscape.&lt;br /&gt;
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Using Pre-Trained Models with TensorFlow in Go</title>
-      <link>https://rawktron.github.io/portfolio/gococo/</link>
-      <pubDate>Sat, 29 Apr 2017 17:02:57 -0300</pubDate>
-      
-      <guid>https://rawktron.github.io/portfolio/gococo/</guid>
-      <description>&lt;p&gt;Using pre-trained COCO object identification in Go.
-&lt;/p&gt;</description>
+      <guid>https://rawktron.com/portfolio/solsdawn/</guid>
+      <description>Sol&amp;rsquo;s Dawn is a collection of origin stories in the Kardashev Cycle. You can get it for free on pjgarcin.com.</description>
     </item>
     
     <item>
       <title>Mark McMorris Infinite Air</title>
-      <link>https://rawktron.github.io/portfolio/infiniteair/</link>
-      <pubDate>Sat, 29 Apr 2017 17:02:15 -0300</pubDate>
+      <link>https://rawktron.com/portfolio/infiniteair/</link>
+      <pubDate>Mon, 29 Apr 2019 17:02:15 -0300</pubDate>
       
-      <guid>https://rawktron.github.io/portfolio/infiniteair/</guid>
-      <description>&lt;p&gt;Snowboard Simulation title on PS4, XB1, PC released in 2016.&lt;br /&gt;
-&lt;/p&gt;</description>
+      <guid>https://rawktron.com/portfolio/infiniteair/</guid>
+      <description>&lt;p&gt;Snowboard Simulation title on PS4, XB1, PC released in 2016.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Building Game AI using Machine Learning: Working with TensorFlow, Keras and Intel MKL in Python</title>
+      <link>https://rawktron.com/portfolio/neuroblastpy/</link>
+      <pubDate>Thu, 25 May 2017 17:02:57 -0300</pubDate>
+      
+      <guid>https://rawktron.com/portfolio/neuroblastpy/</guid>
+      <description>&lt;p&gt;A look into how I built NeuroBlast in Python taking advantage of Intel MKL optimizations and many of the open-source data-science packages available.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Building an ML-Powered game AI using TensorFlow in Go</title>
+      <link>https://rawktron.com/portfolio/neuroblastgo/</link>
+      <pubDate>Sat, 29 Apr 2017 17:02:57 -0300</pubDate>
+      
+      <guid>https://rawktron.com/portfolio/neuroblastgo/</guid>
+      <description>&lt;p&gt;Guest Blog on &lt;a href=&#34;http://gopherdata.io&#34;&gt;GopherData.io&lt;/a&gt; covering building NeuroBlast for Go.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>GopherCon 17 Lightning Talk: Building ML-Powered Game AI using TensorFlow in Go</title>
+      <link>https://rawktron.com/portfolio/gophercon/</link>
+      <pubDate>Sat, 29 Apr 2017 17:02:57 -0300</pubDate>
+      
+      <guid>https://rawktron.com/portfolio/gophercon/</guid>
+      <description>&lt;p&gt;A 10-minute talk I gave at GopherCon 2017 on building NeuroBlast in Go.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>NeuroBlast: Classic space shooter powered by ML</title>
+      <link>https://rawktron.com/portfolio/neuroblast/</link>
+      <pubDate>Sat, 29 Apr 2017 17:02:57 -0300</pubDate>
+      
+      <guid>https://rawktron.com/portfolio/neuroblast/</guid>
+      <description>&lt;p&gt;NeuroBlast is a classic arcade space shooter powered by ML.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Surveying the Go Database Landscape</title>
+      <link>https://rawktron.com/portfolio/godbsurvey/</link>
+      <pubDate>Sat, 29 Apr 2017 17:02:57 -0300</pubDate>
+      
+      <guid>https://rawktron.com/portfolio/godbsurvey/</guid>
+      <description>&lt;p&gt;A survey of the Go database landscape.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Using Pre-Trained Models with TensorFlow in Go</title>
+      <link>https://rawktron.com/portfolio/gococo/</link>
+      <pubDate>Sat, 29 Apr 2017 17:02:57 -0300</pubDate>
+      
+      <guid>https://rawktron.com/portfolio/gococo/</guid>
+      <description>&lt;p&gt;Using pre-trained COCO object identification in Go.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Go Man&#39;s Sky</title>
-      <link>https://rawktron.github.io/portfolio/gomanssky/</link>
+      <link>https://rawktron.com/portfolio/gomanssky/</link>
       <pubDate>Sat, 29 Apr 2017 17:01:53 -0300</pubDate>
       
-      <guid>https://rawktron.github.io/portfolio/gomanssky/</guid>
-      <description>&lt;p&gt;ANSi space exploration game created for Ludum Dare 38 over a weekend.&lt;br /&gt;
-&lt;/p&gt;</description>
+      <guid>https://rawktron.com/portfolio/gomanssky/</guid>
+      <description>&lt;p&gt;ANSi space exploration game created for Ludum Dare 38 over a weekend.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>go-ansi</title>
-      <link>https://rawktron.github.io/portfolio/ansigo/</link>
+      <link>https://rawktron.com/portfolio/ansigo/</link>
       <pubDate>Sat, 29 Apr 2017 17:01:37 -0300</pubDate>
       
-      <guid>https://rawktron.github.io/portfolio/ansigo/</guid>
+      <guid>https://rawktron.com/portfolio/ansigo/</guid>
       <description>go-ansi is a CLI and library that takes ANSi BBS art files and converts them to PNG/bitmaps. I used this to drive the art in Go Man&amp;rsquo;s Sky.</description>
     </item>
     

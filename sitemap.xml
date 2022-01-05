@@ -1,77 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://rawktron.github.io/portfolio/neuroblastpy/</loc>
+    <loc>https://rawktron.com/portfolio/chimerasprism/</loc>
+    <lastmod>2022-01-03T17:01:37-03:00</lastmod>
+  </url><url>
+    <loc>https://rawktron.com/portfolio/mercuryshadow/</loc>
+    <lastmod>2022-01-03T17:01:37-03:00</lastmod>
+  </url><url>
+    <loc>https://rawktron.com/portfolio/</loc>
+    <lastmod>2022-01-03T17:01:37-03:00</lastmod>
+  </url><url>
+    <loc>https://rawktron.com/</loc>
+    <lastmod>2022-01-03T17:01:37-03:00</lastmod>
+  </url><url>
+    <loc>https://rawktron.com/portfolio/solsdawn/</loc>
+    <lastmod>2022-01-02T17:01:37-03:00</lastmod>
+  </url><url>
+    <loc>https://rawktron.com/portfolio/infiniteair/</loc>
+    <lastmod>2019-04-29T17:02:15-03:00</lastmod>
+  </url><url>
+    <loc>https://rawktron.com/portfolio/neuroblastpy/</loc>
     <lastmod>2017-05-25T17:02:57-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rawktron.github.io/portfolio/neuroblastgo/</loc>
+  </url><url>
+    <loc>https://rawktron.com/portfolio/neuroblastgo/</loc>
     <lastmod>2017-04-29T17:02:57-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rawktron.github.io/portfolio/gophercon/</loc>
+  </url><url>
+    <loc>https://rawktron.com/portfolio/gophercon/</loc>
     <lastmod>2017-04-29T17:02:57-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rawktron.github.io/portfolio/neuroblast/</loc>
+  </url><url>
+    <loc>https://rawktron.com/portfolio/neuroblast/</loc>
     <lastmod>2017-04-29T17:02:57-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rawktron.github.io/portfolio/godbsurvey/</loc>
+  </url><url>
+    <loc>https://rawktron.com/portfolio/godbsurvey/</loc>
     <lastmod>2017-04-29T17:02:57-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rawktron.github.io/portfolio/gococo/</loc>
+  </url><url>
+    <loc>https://rawktron.com/portfolio/gococo/</loc>
     <lastmod>2017-04-29T17:02:57-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rawktron.github.io/portfolio/infiniteair/</loc>
-    <lastmod>2017-04-29T17:02:15-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rawktron.github.io/portfolio/gomanssky/</loc>
+  </url><url>
+    <loc>https://rawktron.com/portfolio/gomanssky/</loc>
     <lastmod>2017-04-29T17:01:53-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rawktron.github.io/portfolio/ansigo/</loc>
+  </url><url>
+    <loc>https://rawktron.com/portfolio/ansigo/</loc>
     <lastmod>2017-04-29T17:01:37-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rawktron.github.io/about/</loc>
+  </url><url>
+    <loc>https://rawktron.com/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url><url>
+    <loc>https://rawktron.com/categories/</loc>
+  </url><url>
+    <loc>https://rawktron.com/tags/</loc>
   </url>
-  
-  <url>
-    <loc>https://rawktron.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rawktron.github.io/portfolio/</loc>
-    <lastmod>2017-05-25T17:02:57-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rawktron.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rawktron.github.io/</loc>
-    <lastmod>2017-05-25T17:02:57-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
 </urlset>
