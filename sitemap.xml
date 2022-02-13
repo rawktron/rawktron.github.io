@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rawktron.github.io/portfolio/games/</loc>
+    <lastmod>2022-02-02T17:01:37-03:00</lastmod>
+  </url><url>
+    <loc>https://rawktron.github.io/portfolio/</loc>
+    <lastmod>2022-02-02T17:01:37-03:00</lastmod>
+  </url><url>
+    <loc>https://rawktron.github.io/</loc>
+    <lastmod>2022-02-02T17:01:37-03:00</lastmod>
+  </url><url>
     <loc>https://rawktron.github.io/portfolio/chimerasprism/</loc>
     <lastmod>2022-01-03T17:01:37-03:00</lastmod>
   </url><url>
     <loc>https://rawktron.github.io/portfolio/mercuryshadow/</loc>
-    <lastmod>2022-01-03T17:01:37-03:00</lastmod>
-  </url><url>
-    <loc>https://rawktron.github.io/portfolio/</loc>
-    <lastmod>2022-01-03T17:01:37-03:00</lastmod>
-  </url><url>
-    <loc>https://rawktron.github.io/</loc>
     <lastmod>2022-01-03T17:01:37-03:00</lastmod>
   </url><url>
     <loc>https://rawktron.github.io/portfolio/solsdawn/</loc>

@@ -6,7 +6,16 @@
     <description>Recent content in Portfolios on rawktron</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Jan 2022 17:01:37 -0300</lastBuildDate><atom:link href="https://rawktron.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Feb 2022 17:01:37 -0300</lastBuildDate><atom:link href="https://rawktron.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game Portfolio</title>
+      <link>https://rawktron.github.io/portfolio/games/</link>
+      <pubDate>Wed, 02 Feb 2022 17:01:37 -0300</pubDate>
+      
+      <guid>https://rawktron.github.io/portfolio/games/</guid>
+      <description>A selection of cover art of the various games I&amp;rsquo;ve worked on over my career.</description>
+    </item>
+    
     <item>
       <title>Chimera&#39;s Prism</title>
       <link>https://rawktron.github.io/portfolio/chimerasprism/</link>
