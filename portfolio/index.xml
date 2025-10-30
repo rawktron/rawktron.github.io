@@ -4,125 +4,121 @@
     <title>Portfolios on rawktron</title>
     <link>https://rawktron.github.io/portfolio/</link>
     <description>Recent content in Portfolios on rawktron</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Feb 2022 17:01:37 -0300</lastBuildDate><atom:link href="https://rawktron.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Oct 2025 16:50:00 -0300</lastBuildDate>
+    <atom:link href="https://rawktron.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rawktron Productions</title>
+      <link>https://rawktron.github.io/portfolio/rawktronproductions/</link>
+      <pubDate>Thu, 30 Oct 2025 16:50:00 -0300</pubDate>
+      <guid>https://rawktron.github.io/portfolio/rawktronproductions/</guid>
+      <description>&lt;p&gt;My independent creative studio. Published 3 sci-fi novels: Mercury&amp;rsquo;s Shadow (#1 in multiple Amazon categories, BBNYA 2022 finalist), Chimera&amp;rsquo;s Prism, and Eternity&amp;rsquo;s Veil. Also develop small projects and tools spanning creative writing, game development, and machine learning. Visit &lt;a href=&#34;https://pjgarcin.com&#34;&gt;pjgarcin.com&lt;/a&gt; for more info.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NextRead</title>
+      <link>https://rawktron.github.io/portfolio/nextread/</link>
+      <pubDate>Thu, 30 Oct 2025 16:45:00 -0300</pubDate>
+      <guid>https://rawktron.github.io/portfolio/nextread/</guid>
+      <description>&lt;p&gt;A universal book linking platform for authors. Share your book across Amazon, Apple, Kobo, and other retailers with one short link. Includes a wishlist feature for pre-release books and click analytics.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Eternity&#39;s Veil</title>
+      <link>https://rawktron.github.io/portfolio/eternitysveil/</link>
+      <pubDate>Thu, 30 Oct 2025 16:30:00 -0300</pubDate>
+      <guid>https://rawktron.github.io/portfolio/eternitysveil/</guid>
+      <description>&lt;p&gt;Eternity&amp;rsquo;s Veil is Book Three of the Kardashev Cycle released in 2024. Visit &lt;a href=&#34;https://pjgarcin.com&#34;&gt;pjgarcin.com&lt;/a&gt; for more info.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Game Portfolio</title>
       <link>https://rawktron.github.io/portfolio/games/</link>
       <pubDate>Wed, 02 Feb 2022 17:01:37 -0300</pubDate>
-      
       <guid>https://rawktron.github.io/portfolio/games/</guid>
-      <description>A selection of cover art of the various games I&amp;rsquo;ve worked on over my career.</description>
+      <description>&lt;p&gt;A selection of cover art of the various games I&amp;rsquo;ve worked on over my career.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://rawktron.github.io/img/Games.jpg&#34; alt=&#34;Games I&amp;rsquo;ve shipped&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Chimera&#39;s Prism</title>
       <link>https://rawktron.github.io/portfolio/chimerasprism/</link>
       <pubDate>Mon, 03 Jan 2022 17:01:37 -0300</pubDate>
-      
       <guid>https://rawktron.github.io/portfolio/chimerasprism/</guid>
-      <description>Mercury&amp;rsquo;s Shadow is Book Two of the Kardashev Cycle released in 2021. Visit pjgarcin.com for more info.</description>
+      <description>&lt;p&gt;Mercury&amp;rsquo;s Shadow is Book Two of the Kardashev Cycle released in 2021. Visit &lt;a href=&#34;https://pjgarcin.com&#34;&gt;pjgarcin.com&lt;/a&gt; for more info.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mercury&#39;s Shadow</title>
       <link>https://rawktron.github.io/portfolio/mercuryshadow/</link>
       <pubDate>Mon, 03 Jan 2022 17:01:37 -0300</pubDate>
-      
       <guid>https://rawktron.github.io/portfolio/mercuryshadow/</guid>
-      <description>Mercury&amp;rsquo;s Shadow is Book One of the Kardashev Cycle, my sci-fi series released in 2020. Visit pjgarcin.com for more info.</description>
+      <description>&lt;p&gt;Mercury&amp;rsquo;s Shadow is Book One of the Kardashev Cycle, my sci-fi series released in 2020. Visit &lt;a href=&#34;https://pjgarcin.com&#34;&gt;pjgarcin.com&lt;/a&gt; for more info.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sol&#39;s Dawn</title>
       <link>https://rawktron.github.io/portfolio/solsdawn/</link>
       <pubDate>Sun, 02 Jan 2022 17:01:37 -0300</pubDate>
-      
       <guid>https://rawktron.github.io/portfolio/solsdawn/</guid>
-      <description>Sol&amp;rsquo;s Dawn is a collection of origin stories in the Kardashev Cycle. You can get it for free on pjgarcin.com.</description>
+      <description>&lt;p&gt;Sol&amp;rsquo;s Dawn is a collection of origin stories in the Kardashev Cycle. You can get it for free on &lt;a href=&#34;https://pjgarcin.com/subscribe&#34;&gt;pjgarcin.com&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mark McMorris Infinite Air</title>
       <link>https://rawktron.github.io/portfolio/infiniteair/</link>
       <pubDate>Mon, 29 Apr 2019 17:02:15 -0300</pubDate>
-      
       <guid>https://rawktron.github.io/portfolio/infiniteair/</guid>
       <description>&lt;p&gt;Snowboard Simulation title on PS4, XB1, PC released in 2016.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Building Game AI using Machine Learning: Working with TensorFlow, Keras and Intel MKL in Python</title>
       <link>https://rawktron.github.io/portfolio/neuroblastpy/</link>
       <pubDate>Thu, 25 May 2017 17:02:57 -0300</pubDate>
-      
       <guid>https://rawktron.github.io/portfolio/neuroblastpy/</guid>
       <description>&lt;p&gt;A look into how I built NeuroBlast in Python taking advantage of Intel MKL optimizations and many of the open-source data-science packages available.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Building an ML-Powered game AI using TensorFlow in Go</title>
       <link>https://rawktron.github.io/portfolio/neuroblastgo/</link>
       <pubDate>Sat, 29 Apr 2017 17:02:57 -0300</pubDate>
-      
       <guid>https://rawktron.github.io/portfolio/neuroblastgo/</guid>
       <description>&lt;p&gt;Guest Blog on &lt;a href=&#34;http://gopherdata.io&#34;&gt;GopherData.io&lt;/a&gt; covering building NeuroBlast for Go.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>GopherCon 17 Lightning Talk: Building ML-Powered Game AI using TensorFlow in Go</title>
       <link>https://rawktron.github.io/portfolio/gophercon/</link>
       <pubDate>Sat, 29 Apr 2017 17:02:57 -0300</pubDate>
-      
       <guid>https://rawktron.github.io/portfolio/gophercon/</guid>
       <description>&lt;p&gt;A 10-minute talk I gave at GopherCon 2017 on building NeuroBlast in Go.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>NeuroBlast: Classic space shooter powered by ML</title>
       <link>https://rawktron.github.io/portfolio/neuroblast/</link>
       <pubDate>Sat, 29 Apr 2017 17:02:57 -0300</pubDate>
-      
       <guid>https://rawktron.github.io/portfolio/neuroblast/</guid>
       <description>&lt;p&gt;NeuroBlast is a classic arcade space shooter powered by ML.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Surveying the Go Database Landscape</title>
       <link>https://rawktron.github.io/portfolio/godbsurvey/</link>
       <pubDate>Sat, 29 Apr 2017 17:02:57 -0300</pubDate>
-      
       <guid>https://rawktron.github.io/portfolio/godbsurvey/</guid>
       <description>&lt;p&gt;A survey of the Go database landscape.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Using Pre-Trained Models with TensorFlow in Go</title>
       <link>https://rawktron.github.io/portfolio/gococo/</link>
       <pubDate>Sat, 29 Apr 2017 17:02:57 -0300</pubDate>
-      
       <guid>https://rawktron.github.io/portfolio/gococo/</guid>
       <description>&lt;p&gt;Using pre-trained COCO object identification in Go.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Go Man&#39;s Sky</title>
       <link>https://rawktron.github.io/portfolio/gomanssky/</link>
       <pubDate>Sat, 29 Apr 2017 17:01:53 -0300</pubDate>
-      
       <guid>https://rawktron.github.io/portfolio/gomanssky/</guid>
       <description>&lt;p&gt;ANSi space exploration game created for Ludum Dare 38 over a weekend.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>go-ansi</title>
       <link>https://rawktron.github.io/portfolio/ansigo/</link>
       <pubDate>Sat, 29 Apr 2017 17:01:37 -0300</pubDate>
-      
       <guid>https://rawktron.github.io/portfolio/ansigo/</guid>
-      <description>go-ansi is a CLI and library that takes ANSi BBS art files and converts them to PNG/bitmaps. I used this to drive the art in Go Man&amp;rsquo;s Sky.</description>
+      <description>&lt;p&gt;go-ansi is a CLI and library that takes ANSi BBS art files and converts them to PNG/bitmaps. I used this to drive the art in &lt;a href=&#34;https://rawktron.github.io/portfolio/gomanssky&#34;&gt;Go Man&amp;rsquo;s Sky&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
